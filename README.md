@@ -1,4 +1,5 @@
 Kynky Daphne
+
 El nombre deriva de la Ninfa del mismo nombre del mito griego Apollo y Daphne, 
 el adjetivo Kynky es agregado en honor del RedBull RB7 (2011) de Sebastian Vettel
 nombrado 'Kynky Kylie' por el piloto alemán.
