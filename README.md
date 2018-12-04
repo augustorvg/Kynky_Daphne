@@ -4,7 +4,6 @@ el adjetivo Kynky es agregado en honor del RedBull RB7 (2011) de Sebastian Vette
 nombrado 'Kynky Kylie' por el piloto alemán.
 
 
-*  ------------------------------------------------
 Este sistema es básicamente un sistema de acceso simple donde el sensor ultrasónico
 detecta la presencia de alguien, posteriormente lee la entrada de un tag, si el tag 
 esta autorizado mostrara el mensaje correspondiente y activara el sistema de acceso,
